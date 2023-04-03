@@ -1,3 +1,16 @@
+---
+
+>
+>
+> <div align=center>
+>
+> Fork of [thelinmichael/spotify-web-api-node](https://github.com/thelinmichael/spotify-web-api-node) with a patch for error handling at [#484](https://github.com/thelinmichael/spotify-web-api-node/pull/484)
+>
+> </div>
+>
+
+---
+
 # Spotify Web API Node
 
 [![Tests](https://travis-ci.org/thelinmichael/spotify-web-api-node.svg?branch=master)](https://travis-ci.org/thelinmichael/spotify-web-api-node)
